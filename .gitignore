@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+# Local Enviroment settings(never commit credentials)
+connections.local.config
+*.local.config
