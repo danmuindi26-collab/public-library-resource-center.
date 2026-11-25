@@ -1,8 +1,3 @@
--- =====================================================
--- Sample data for testing ONLY. Run after schema.sql.
--- Test passwords are hashed with SHA2 so they are not plain text.
--- Logins:  librarian1 / Admin@123     member1 / Member@123
--- =====================================================
 
 USE public_library;
 

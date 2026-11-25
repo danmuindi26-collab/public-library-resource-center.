@@ -1,8 +1,3 @@
--- =====================================================
--- Public Library and Resource Center - database schema
--- Run in MySQL Workbench: File > Open SQL Script, then
--- click the lightning bolt (Execute).
--- =====================================================
 
 CREATE DATABASE IF NOT EXISTS public_library
     CHARACTER SET utf8mb4
